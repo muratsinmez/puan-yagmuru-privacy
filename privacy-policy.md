@@ -9,6 +9,6 @@ Uygulama içi puan sistemi yalnızca cihazda saklanır (SharedPreferences).
 
 Uygulama hiçbir şekilde kamera, mikrofon, rehber gibi hassas izinlere erişmez.
 
-Herhangi bir soru için: **skcapps@ornekmail.com** adresine ulaşabilirsiniz.
+Herhangi bir soru için: **muratsinmez89@gmail.com** adresine ulaşabilirsiniz.
 
 **Güncelleme Tarihi:** 24 Nisan 2025
